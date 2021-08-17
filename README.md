@@ -1,1 +1,1 @@
-# Logistic-regression-model
+# Heart decease predicition model through Logistic Regression
